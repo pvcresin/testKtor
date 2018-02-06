@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testKtor.iml" filepath="$PROJECT_DIR$/.idea/modules/testKtor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testKtor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testKtor_main.iml" group="testKtor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testKtor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testKtor_test.iml" group="testKtor" />
+    </modules>
+  </component>
+</project>
